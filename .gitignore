@@ -21,3 +21,18 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/bin
+/null
+/.settings
+
+*.db
+*.class
+*.jar
+*.war
+*.ear
+.classpath
+/.settings/org.eclipse.jdt.core.prefs
+.project
+/null/Documentos/indice-lucene/write.lock
+/config.properties
