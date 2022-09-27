@@ -36,3 +36,5 @@ hs_err_pid*
 .project
 /null/Documentos/indice-lucene/write.lock
 /config.properties
+.metadata
+.prefs
